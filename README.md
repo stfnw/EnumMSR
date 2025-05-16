@@ -70,7 +70,7 @@ Documented MSRs have been extracted from the previously referenced manual Volume
 
 Overall conclusion: for the CPUs in the laptops I had laying around, there seem to be many undocumented MSR available.
 This surprised me; I didn't expect that.
-Some that are not mentioned in Volume 4 at all are: (note that there could very well be false positive if a presented format in the PDF isn't handled correctly by the scirpt).
+Some that are not mentioned in Volume 4 at all are: (note that there could very well be false positive if a presented format in the PDF isn't handled correctly by the script).
 
 0x00000020,
 0x00000021,
